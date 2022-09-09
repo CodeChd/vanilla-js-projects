@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+
+/* BOILER */
+html{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+    background: linear-gradient(rgba(96, 172, 120, 0.4),rgba(189, 148, 81, 0.7)), url('bg.jpg') ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-y:20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Amatic,sans-serif;
+}
+
+/* ***************** */
+
+
+.button-container .mod{
+
+    box-shadow: 0 0.2rem 2px rgb(0, 0, 0);
+}
+
+.button-container .mod:active{
+
+    transform: translateY(0.3rem);
+    box-shadow: 0 0 rgba(255, 255, 254, 0);
+}
+
+
