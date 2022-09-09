@@ -1,1 +1,1 @@
-  # This is my ongoing progress. "willing to demonstrate for the internships"
+  # "eager to perform in order to obtain internships"
