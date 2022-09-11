@@ -1,0 +1,20 @@
+
+.win{
+
+    color: green;
+}
+
+.loser{
+
+    color: red;
+}
+
+
+.container{
+    padding-top: 2rem;
+}
+
+.card-content .content span{
+
+    margin: 0 8px;
+}
