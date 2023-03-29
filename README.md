@@ -1,1 +1,1 @@
-Vanilla Js
+Vannila JS Projects
